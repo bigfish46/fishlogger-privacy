@@ -1,0 +1,2 @@
+# fishlogger-privacy
+Privacy Policy
